@@ -42,4 +42,4 @@ Hierarchical clustering is a method for grouping data points into a hierarchy of
 
 ## Acknowledgments
 
-* reference from geeksforegeeks.com
+* reference from geeksforgeeks.com
