@@ -1,0 +1,22 @@
+* Results from model trainning and visualization
+
+• Both linear regression and logistic regression analyses indicate a 
+negative relationship between Health Outcomes Rank and Health 
+Factors Rank. Higher Health Factors Rank corresponds to lower Health 
+Outcomes Rank, suggesting that counties with better health factors tend 
+to have better health outcomes. This relationship is consistent across 
+different modeling approaches, showing the correct prediction. 
+• The models, particularly KNN, show varying performance across health 
+outcome quartiles. While Quartile 1 predictions are most accurate, 
+Quartiles 2, 3, and 4 present challenges, indicating limitations in 
+predicting health outcomes solely based on health factors.  
+• Decision tree analysis reveals clear thresholds in the Health Factors 
+Rank that separate counties into different Health Outcomes Quartiles. 
+Similarly, K-means and hierarchical clustering identify distinct clusters 
+based on Health Outcomes and Factors Rank. These methods give 
+analysis into underlying patterns and groupings within the data, enabling 
+a deeper understanding of county-level health disparities and similarities. 
+• The hierarchical clustering analysis reveals the presence of distinct 
+clusters within the dataset. By visualizing the dendrogram, we can 
+observe the grouping of counties based on similarities in health 
+outcomes and factors. 
